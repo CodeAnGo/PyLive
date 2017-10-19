@@ -1,6 +1,5 @@
 import unittest
 import os
-print(os.getcwd())
 from security import AES
 
 class AESTest(unittest.TestCase):
